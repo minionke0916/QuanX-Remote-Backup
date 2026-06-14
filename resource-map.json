@@ -1,0 +1,303 @@
+﻿[
+    {
+        "line":  102,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/DouYin/DouYin.list",
+        "backup_path":  "filter_remote/102-DouYin.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/102-DouYin.list"
+    },
+    {
+        "line":  103,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list",
+        "backup_path":  "filter_remote/103-OpenAI.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/103-OpenAI.list"
+    },
+    {
+        "line":  106,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list",
+        "backup_path":  "filter_remote/106-AWAvenue-Ads-Rule-QuantumultX.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/106-AWAvenue-Ads-Rule-QuantumultX.list"
+    },
+    {
+        "line":  107,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list",
+        "backup_path":  "filter_remote/107-Advertising.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/107-Advertising.list"
+    },
+    {
+        "line":  108,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list",
+        "backup_path":  "filter_remote/108-WeChat.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/108-WeChat.list"
+    },
+    {
+        "line":  109,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/iCloud/iCloud.list",
+        "backup_path":  "filter_remote/109-iCloud.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/109-iCloud.list"
+    },
+    {
+        "line":  110,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GoogleDrive/GoogleDrive.list",
+        "backup_path":  "filter_remote/110-GoogleDrive.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/110-GoogleDrive.list"
+    },
+    {
+        "line":  113,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Privacy/Privacy.list",
+        "backup_path":  "filter_remote/113-Privacy.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/113-Privacy.list"
+    },
+    {
+        "line":  114,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-quanx.txt",
+        "backup_path":  "filter_remote/114-anti-ad-quanx.txt",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/114-anti-ad-quanx.txt"
+    },
+    {
+        "line":  116,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list",
+        "backup_path":  "filter_remote/116-Microsoft.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/116-Microsoft.list"
+    },
+    {
+        "line":  117,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list",
+        "backup_path":  "filter_remote/117-Spotify.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/117-Spotify.list"
+    },
+    {
+        "line":  119,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list",
+        "backup_path":  "filter_remote/119-Netflix.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/119-Netflix.list"
+    },
+    {
+        "line":  120,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list",
+        "backup_path":  "filter_remote/120-Disney.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/120-Disney.list"
+    },
+    {
+        "line":  121,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Steam/Steam.list",
+        "backup_path":  "filter_remote/121-Steam.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/121-Steam.list"
+    },
+    {
+        "line":  122,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list",
+        "backup_path":  "filter_remote/122-Telegram.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/122-Telegram.list"
+    },
+    {
+        "line":  123,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list",
+        "backup_path":  "filter_remote/123-AdvertisingLite.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/123-AdvertisingLite.list"
+    },
+    {
+        "line":  125,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list",
+        "backup_path":  "filter_remote/125-BanEasyPrivacy.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/125-BanEasyPrivacy.list"
+    },
+    {
+        "line":  129,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list",
+        "backup_path":  "filter_remote/129-AdRule.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/129-AdRule.list"
+    },
+    {
+        "line":  133,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/ddgksf2013/Filter/master/Unbreak.list",
+        "backup_path":  "filter_remote/133-Unbreak.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/133-Unbreak.list"
+    },
+    {
+        "line":  134,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list",
+        "backup_path":  "filter_remote/134-Apple.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/134-Apple.list"
+    },
+    {
+        "line":  138,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/ddgksf2013/Filter/master/Streaming.list",
+        "backup_path":  "filter_remote/138-Streaming.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/138-Streaming.list"
+    },
+    {
+        "line":  142,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list",
+        "backup_path":  "filter_remote/142-Global.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/142-Global.list"
+    },
+    {
+        "line":  144,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list",
+        "backup_path":  "filter_remote/144-ASN.China.list",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/144-ASN.China.list"
+    },
+    {
+        "line":  145,
+        "section":  "filter_remote",
+        "source_url":  "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt#type=rule",
+        "backup_path":  "filter_remote/145-china_ip_list.txt",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/filter_remote/145-china_ip_list.txt"
+    },
+    {
+        "line":  150,
+        "section":  "rewrite_remote",
+        "source_url":  "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf",
+        "backup_path":  "rewrite_remote/150-YoutubeAds.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/150-YoutubeAds.conf"
+    },
+    {
+        "line":  151,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/YoutubeAds.conf",
+        "backup_path":  "rewrite_remote/151-YoutubeAds.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/151-YoutubeAds.conf"
+    },
+    {
+        "line":  153,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/Neurogram-R/Quantumult-X/main/snippet/Dualsub.snippet",
+        "backup_path":  "rewrite_remote/153-Dualsub.snippet",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/153-Dualsub.snippet"
+    },
+    {
+        "line":  159,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf",
+        "backup_path":  "rewrite_remote/159-Applet.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/159-Applet.conf"
+    },
+    {
+        "line":  169,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.conf",
+        "backup_path":  "rewrite_remote/169-spotify.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/169-spotify.conf"
+    },
+    {
+        "line":  170,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/gjwj666/qx/main/aliy.js",
+        "backup_path":  "rewrite_remote/170-aliy.js",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/170-aliy.js"
+    },
+    {
+        "line":  172,
+        "section":  "rewrite_remote",
+        "source_url":  "https://github.com/ddgksf2013/Scripts/raw/master/12306.js",
+        "backup_path":  "rewrite_remote/172-12306.js",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/172-12306.js"
+    },
+    {
+        "line":  173,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/jd_price.sgmodule",
+        "backup_path":  "rewrite_remote/173-jd_price.sgmodule",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/173-jd_price.sgmodule"
+    },
+    {
+        "line":  174,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/thunder.conf",
+        "backup_path":  "rewrite_remote/174-thunder.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/174-thunder.conf"
+    },
+    {
+        "line":  175,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/AdBlock.conf",
+        "backup_path":  "rewrite_remote/175-AdBlock.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/175-AdBlock.conf"
+    },
+    {
+        "line":  179,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf",
+        "backup_path":  "rewrite_remote/179-AdvertisingLite.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/179-AdvertisingLite.conf"
+    },
+    {
+        "line":  182,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/weiboad.module",
+        "backup_path":  "rewrite_remote/182-weiboad.module",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/182-weiboad.module"
+    },
+    {
+        "line":  183,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wechatad.module",
+        "backup_path":  "rewrite_remote/183-wechatad.module",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/183-wechatad.module"
+    },
+    {
+        "line":  184,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/thunder.module",
+        "backup_path":  "rewrite_remote/184-thunder.module",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/184-thunder.module"
+    },
+    {
+        "line":  185,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lightroom.module",
+        "backup_path":  "rewrite_remote/185-lightroom.module",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/185-lightroom.module"
+    },
+    {
+        "line":  187,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/TestFlightDownload.conf",
+        "backup_path":  "rewrite_remote/187-TestFlightDownload.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/187-TestFlightDownload.conf"
+    },
+    {
+        "line":  188,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/Orz-3/QuantumultX/master/TikTok.conf",
+        "backup_path":  "rewrite_remote/188-TikTok.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/188-TikTok.conf"
+    },
+    {
+        "line":  189,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf",
+        "backup_path":  "rewrite_remote/189-Rewrite_lhie1.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/189-Rewrite_lhie1.conf"
+    },
+    {
+        "line":  190,
+        "section":  "rewrite_remote",
+        "source_url":  "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/General.conf",
+        "backup_path":  "rewrite_remote/190-General.conf",
+        "backup_raw_url":  "https://raw.githubusercontent.com/minionke0916/QuanX-Remote-Backup/main/rewrite_remote/190-General.conf"
+    }
+]
